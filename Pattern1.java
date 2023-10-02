@@ -9,7 +9,7 @@ print pattern:
 
 
 
-class pattern1{
+class Pattern1{
   public static void main(String[] args)
   {
     for(int r=0;r<5;r++)
